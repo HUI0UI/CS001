@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-C12FR2U",
+    "children" : [ {
+      "name" : "17124-MainThread",
+      "children" : [ {
+        "name" : "Test01.test05",
+        "uid" : "f46cc1a0058a3421",
+        "parentUid" : "30f690df7cdb4c9d81cf7147427ac611",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562664953258,
+          "stop" : 1562664953261,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test02",
+        "uid" : "e500c4587f7786bb",
+        "parentUid" : "30f690df7cdb4c9d81cf7147427ac611",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562664953241,
+          "stop" : 1562664953244,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test03",
+        "uid" : "d9534c2693539a2a",
+        "parentUid" : "30f690df7cdb4c9d81cf7147427ac611",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562664953245,
+          "stop" : 1562664953249,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test04",
+        "uid" : "63861c80c2375fbb",
+        "parentUid" : "30f690df7cdb4c9d81cf7147427ac611",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562664953252,
+          "stop" : 1562664953255,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test01",
+        "uid" : "9adb112c907bf53",
+        "parentUid" : "30f690df7cdb4c9d81cf7147427ac611",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562664953233,
+          "stop" : 1562664953240,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "30f690df7cdb4c9d81cf7147427ac611"
+    } ],
+    "uid" : "cce5844c9cf1f4301a0ba7205d9dde2a"
+  } ]
+}

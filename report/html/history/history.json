@@ -1,0 +1,97 @@
+{
+  "d16596215e0837a26b4e100bebfd0166" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e500c4587f7786bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562664953241,
+        "stop" : 1562664953244,
+        "duration" : 3
+      }
+    } ]
+  },
+  "f9aeb9c9954f2302a50347d0462e8e56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9534c2693539a2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562664953245,
+        "stop" : 1562664953249,
+        "duration" : 4
+      }
+    } ]
+  },
+  "5f8ca7edbe6126e9afb80d1d5b287708" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9adb112c907bf53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562664953233,
+        "stop" : 1562664953240,
+        "duration" : 7
+      }
+    } ]
+  },
+  "4416e6bcc0259df32074c704f228f5d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f46cc1a0058a3421",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562664953258,
+        "stop" : 1562664953261,
+        "duration" : 3
+      }
+    } ]
+  },
+  "5b96661e85cbc8d4ffe486c3daeffe71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63861c80c2375fbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562664953252,
+        "stop" : 1562664953255,
+        "duration" : 3
+      }
+    } ]
+  }
+}
